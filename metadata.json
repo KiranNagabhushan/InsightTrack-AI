@@ -1,0 +1,5 @@
+{
+  "name": "InsightTrack AI",
+  "description": "A comprehensive website event tracking simulator and dashboard. Visualize user interactions in real-time and utilize Gemini 2.5 Flash to analyze behavior patterns and generate actionable UX insights.",
+  "requestFramePermissions": []
+}
